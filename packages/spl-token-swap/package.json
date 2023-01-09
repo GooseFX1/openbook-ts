@@ -1,6 +1,6 @@
 {
   "name": "@project-gfx/spl-token-swap",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Serum Swap",
   "main": "lib/index.js",
   "types": "lib/src/index.d.ts",

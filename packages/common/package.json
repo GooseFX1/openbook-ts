@@ -1,6 +1,6 @@
 {
-  "name": "@project-serum/common",
-  "version": "0.0.1",
+  "name": "@project-gfx/common",
+  "version": "0.0.2",
   "description": "Serum common utilities",
   "main": "dist/lib/index.js",
   "types": "dist/lib/index.d.ts",

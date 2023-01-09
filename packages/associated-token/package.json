@@ -1,8 +1,8 @@
 {
-  "name": "@project-serum/associated-token",
-  "version": "0.1.2",
+  "name": "@project-gfx/associated-token",
+  "version": "0.1.3",
   "description": "Library for interacting with SPL Associated Token Accounts",
-  "repository": "project-serum/serum-ts",
+  "repository": "GooseFX1/openbook-ts",
   "main": "dist/lib/index.js",
   "types": "dist/lib/index.d.ts",
   "exports": {
