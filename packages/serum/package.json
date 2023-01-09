@@ -1,6 +1,6 @@
 {
   "name": "@project-gfx/serum",
-  "version": "0.13.65",
+  "version": "0.13.66",
   "description": "Library for interacting with the serum dex",
   "license": "MIT",
   "repository": "GooseFX1/openbook-ts",
