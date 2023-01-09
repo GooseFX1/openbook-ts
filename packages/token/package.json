@@ -1,8 +1,8 @@
 {
-  "name": "@project-serum/token",
+  "name": "@project-gfx/token",
   "version": "0.1.0",
   "description": "Utilities for interacting with SPL Tokens",
-  "repository": "project-serum/serum-ts",
+  "repository": "GooseFX1/openbook-ts",
   "main": "dist/lib/index.js",
   "types": "dist/lib/index.d.ts",
   "exports": {

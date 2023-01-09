@@ -1,9 +1,9 @@
 {
-  "name": "@project-serum/serum",
+  "name": "@project-gfx/serum",
   "version": "0.13.65",
   "description": "Library for interacting with the serum dex",
   "license": "MIT",
-  "repository": "project-serum/serum-ts",
+  "repository": "GooseFX1/openbook-ts",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "engines": {

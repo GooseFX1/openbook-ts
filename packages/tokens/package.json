@@ -1,5 +1,5 @@
 {
-  "name": "@project-serum/tokens",
+  "name": "@project-gfx/tokens",
   "version": "0.0.7",
   "description": "Serum tokens",
   "main": "dist/index.umd.js",

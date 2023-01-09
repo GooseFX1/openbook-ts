@@ -1,8 +1,8 @@
 {
-  "name": "@project-serum/pool",
+  "name": "@project-gfx/pool",
   "version": "0.2.3",
   "description": "Library for interacting with the serum pools",
-  "repository": "project-serum/serum-ts",
+  "repository": "GooseFX1/openbook-ts",
   "main": "dist/lib/index.js",
   "source": "src/index.js",
   "types": "dist/lib/index.d.ts",

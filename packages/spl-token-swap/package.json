@@ -1,5 +1,5 @@
 {
-  "name": "@project-serum/spl-token-swap",
+  "name": "@project-gfx/spl-token-swap",
   "version": "0.1.0-alpha.1",
   "description": "Serum Swap",
   "main": "lib/index.js",
