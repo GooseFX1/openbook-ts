@@ -1,6 +1,6 @@
 {
   "name": "@project-gfx/swap",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Client for swapping on the Serum DEX",
   "license": "MIT",
   "repository": "GooseFX1/openbook-ts",
@@ -56,5 +56,6 @@
     "not dead",
     "not op_mini all",
     "maintained node versions"
-  ]
+  ],
+  "gitHead": "169e6c2533952d736299bc0ecb1503ca5290ec70"
 }

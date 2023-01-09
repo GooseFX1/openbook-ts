@@ -1,6 +1,6 @@
 {
   "name": "@project-gfx/pool",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "Library for interacting with the serum pools",
   "repository": "GooseFX1/openbook-ts",
   "main": "dist/lib/index.js",
@@ -62,5 +62,6 @@
     "not dead",
     "not op_mini all",
     "maintained node versions"
-  ]
+  ],
+  "gitHead": "169e6c2533952d736299bc0ecb1503ca5290ec70"
 }
